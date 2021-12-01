@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Advent_of_Code>
+  <Result_Part1>7</Result_Part1>
+  <Result_Part2>5</Result_Part2>
+  <Input>199
+200
+208
+210
+200
+207
+240
+269
+260
+263</Input>
+</Advent_of_Code>
