@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<Advent_of_Code>
+  <Result_Part1>198</Result_Part1>
+  <Result_Part2>230</Result_Part2>
+  <Input>00100
+11110
+10110
+10111
+10101
+01111
+00111
+11100
+10000
+11001
+00010
+01010</Input>
+</Advent_of_Code>
