@@ -11,10 +11,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Day.vi" Type="VI" URL="../../Day xx/Day.vi"/>
-		<Item Name="Decode Display.vi" Type="VI" URL="../../Day xx/Decode Display.vi"/>
-		<Item Name="Decode Signal Patterns.vi" Type="VI" URL="../../Day xx/Decode Signal Patterns.vi"/>
-		<Item Name="Part 1.vi" Type="VI" URL="../../Day xx/Part 1.vi"/>
+		<Item Name="Day.vi" Type="VI" URL="../Day.vi"/>
+		<Item Name="Decode Display.vi" Type="VI" URL="../Decode Display.vi"/>
+		<Item Name="Decode Signal Patterns.vi" Type="VI" URL="../Decode Signal Patterns.vi"/>
+		<Item Name="Part 1.vi" Type="VI" URL="../Part 1.vi"/>
 		<Item Name="Part 2.vi" Type="VI" URL="../Part 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
