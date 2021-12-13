@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<Advent_of_Code>
+  <Result_Part1>10</Result_Part1>
+  <Result_Part2>36</Result_Part2>
+  <Input>start-A
+start-b
+A-c
+A-b
+b-d
+A-end
+b-end</Input>
+</Advent_of_Code>

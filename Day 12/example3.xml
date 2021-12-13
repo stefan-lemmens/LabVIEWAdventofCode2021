@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Advent_of_Code>
+  <Result_Part1>226</Result_Part1>
+  <Result_Part2>3509</Result_Part2>
+  <Input>fs-end
+he-DX
+fs-he
+start-DX
+pj-DX
+end-zg
+zg-sl
+zg-pj
+pj-he
+RW-he
+fs-DX
+pj-RW
+zg-RW
+start-pj
+he-WI
+zg-he
+pj-fs
+start-RW</Input>
+</Advent_of_Code>

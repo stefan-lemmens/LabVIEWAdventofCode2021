@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Advent_of_Code>
+  <Result_Part1>19</Result_Part1>
+  <Result_Part2>103</Result_Part2>
+  <Input>dc-end
+HN-start
+start-kj
+dc-start
+dc-HN
+LN-dc
+HN-end
+kj-sa
+kj-HN
+kj-dc</Input>
+</Advent_of_Code>
