@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<Advent_of_Code>
+  <Result_Part1>45</Result_Part1>
+  <Result_Part2>112</Result_Part2>
+  <Input>target area: x=20..30, y=-10..-5</Input>
+</Advent_of_Code>
