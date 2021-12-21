@@ -11,7 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Create Border.vi" Type="VI" URL="../../Day 19/Create Border.vi"/>
+		<Item Name="Create Border.vi" Type="VI" URL="../Create Border.vi"/>
 		<Item Name="Day.vi" Type="VI" URL="../Day.vi"/>
 		<Item Name="Part 1.vi" Type="VI" URL="../Part 1.vi"/>
 		<Item Name="Part 2.vi" Type="VI" URL="../Part 2.vi"/>
