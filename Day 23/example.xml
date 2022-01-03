@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<Advent_of_Code>
+  <Result_Part1>12521</Result_Part1>
+  <Result_Part2>44169</Result_Part2>
+  <Input>#############
+#...........#
+###B#C#B#D###
+  #A#D#C#A#
+  #########</Input>
+</Advent_of_Code>

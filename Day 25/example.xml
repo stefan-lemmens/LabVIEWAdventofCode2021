@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<Advent_of_Code>
+  <Result_Part1>58</Result_Part1>
+  <Result_Part2>0</Result_Part2>
+  <Input>v...>>.vv>
+.vv>>.vv..
+>>.>v>...v
+>>v>>.>.v.
+v>v.vv.v..
+>.>>..v...
+.vv..>.>v.
+v.v..>>v.v
+....v..v.></Input>
+</Advent_of_Code>
